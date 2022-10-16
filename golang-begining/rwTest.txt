@@ -1,0 +1,5 @@
+bufio write Hello World!{"Name":"Jerry","Age":18,"Email":"Jerry@sina.com"}
+{"Name":"Jerry","Age":18,"Email":"Jerry@sina.com"}
+{"Name":"Jerry","Age":18,"Email":"Jerry@sina.com"}
+{"Name":"Jerry","Age":18,"Email":"Jerry@sina.com"}
+{"Name":"Jerry","Age":18,"Email":"Jerry@sina.com"}

@@ -1,0 +1,9 @@
+[前缀]: 2022/09/24 16:34:01 /Users/cuiweiman/GoProjects/golang-begining/ioapi/log_api.go:53: 输出到日志文件中
+[前缀]: 2022/09/24 16:38:24 /Users/cuiweiman/GoProjects/golang-begining/ioapi/log_api.go:55: 输出到日志文件中
+success2022/09/24 16:38:24 log_api.go:70: 自定义logger，可以在 init() 初始化方法中提前定义好，并全局使用
+[前缀]: 2022/09/24 16:38:48 /Users/cuiweiman/GoProjects/golang-begining/ioapi/log_api.go:55: 输出到日志文件中
+success2022/09/24 16:38:48 log_api.go:67: 自定义logger，可以在 init() 初始化方法中提前定义好，并全局使用
+[前缀]: 2022/09/24 16:39:12 /Users/cuiweiman/GoProjects/golang-begining/ioapi/log_api.go:55: 输出到日志文件中
+success2022/09/24 16:39:12 log_api.go:69: [logger] 自定义logger，可以在 init() 初始化方法中提前定义好，并全局使用
+[前缀]: 2022/09/24 16:39:34 /Users/cuiweiman/GoProjects/golang-begining/ioapi/log_api.go:55: 输出到日志文件中
+[success-prefix] 2022/09/24 16:39:34 log_api.go:69: [logger] 自定义logger，可以在 init() 初始化方法中提前定义好，并全局使用
